@@ -4,7 +4,7 @@
  * check_for_digit - checks that a string only contains digits
  * @str: string to check
  *
- * Return: 0 if only digits, and 1 if otherwise
+ * Return: 0 if only digits, else 1
  */
 static int check_for_digit(char *str)
 {
